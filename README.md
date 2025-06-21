@@ -7,11 +7,9 @@ A Java-based Pharmacy Management System implementing advanced OOP concepts. The 
 - Menna Ayman Hassan 2200236
 - Karim Khaled Gamaleldin 2201356
 
-## How to Run
-To run the application and test all designed functionalities:
-- Execute the Main.java file.
-To test the full GUI:
-- Execute the MainFX.java file.
+
+## UML 
+![image](https://github.com/user-attachments/assets/fe25d4b4-49de-4a48-920d-64e84ed45ca2)
 
 ## Project Structure
 - `src/main/java`: Contains the main source code.
@@ -19,7 +17,7 @@ To test the full GUI:
 - `src/images`: Assets used in the GUI.
 - `pom.xml`: Maven configuration file.
   
-## Main Features
+## Main features
 - User registration: Allows new users to sign up and access the system.
 
 - Inventory setup: Enables administrators to configure and manage product inventory.
@@ -34,5 +32,5 @@ To test the full GUI:
 
 - Bonus: We tested the function isAvailable() in the Inventory Class by forcing three possible scenarios to insure the functionality of this function.
 
-## Notes
-[Download the PDF here] (Team19PharmacyPresentationPDF.pdf)
+## Project Presentation
+The project presentation (Team19PharmacyPresentation.pdf) in this repository provides a detailed overview of the project and its features.
