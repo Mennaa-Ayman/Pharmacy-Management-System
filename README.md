@@ -35,4 +35,4 @@ To test the full GUI:
 - Bonus: We tested the function isAvailable() in the Inventory Class by forcing three possible scenarios to insure the functionality of this function.
 
 ## Notes
-The PowerPoint presentation (Team19PharmacyPresentation.pptx) in this repository provides a detailed overview of the project and its features.
+[Download the PDF here] (Team19PharmacyPresentationPDF.pdf)
