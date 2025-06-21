@@ -33,4 +33,4 @@ A Java-based Pharmacy Management System implementing advanced OOP concepts. The 
 - Bonus: We tested the function isAvailable() in the Inventory Class by forcing three possible scenarios to insure the functionality of this function.
 
 ## Project Presentation
-The project presentation (Team19PharmacyPresentation.pdf) in this repository provides a detailed overview of the project and its features.
+ (Team19PharmacyPresentation.pdf) in this repository provides a detailed overview of the project and its features.
