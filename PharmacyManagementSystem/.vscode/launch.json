@@ -1,0 +1,64 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainFX",
+            "request": "launch",
+            "mainClass": "com.mycompany.pharmacymanagementsystem.MainFX",
+            "projectName": "PharmacyManagementSystem",
+            "vmArgs": "--module-path \"E:/Programs/JavaFXGulon/openjfx-24.0.1_windows-x64_bin-sdk/javafx-sdk-24.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.pharmacymanagementsystem.Main",
+            "projectName": "PharmacyManagementSystem"
+        },
+        {
+            "type": "java",
+            "name": "Receipt",
+            "request": "launch",
+            "mainClass": "Receipt",
+            "projectName": "PharmacyManagementSystem"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Expenses",
+            "request": "launch",
+            "mainClass": "Expenses",
+            "projectName": "PharmacyManagementSystem"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "PharmacyManagementSystem"
+        },
+        {
+            "type": "java",
+            "name": "Sales",
+            "request": "launch",
+            "mainClass": "Sales",
+            "projectName": "PharmacyManagementSystem"
+        },
+        {
+            "type": "java",
+            "name": "PharmacyManagementSystem",
+            "request": "launch",
+            "mainClass": "com.mycompany.pharmacymanagementsystem.PharmacyManagementSystem",
+            "projectName": "PharmacyManagementSystem"
+        }
+    ]
+}
