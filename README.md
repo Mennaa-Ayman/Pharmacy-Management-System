@@ -3,10 +3,10 @@ A Java-based Pharmacy Management System implementing advanced OOP concepts.
 The project includes a GUI interface and covers core functionalities for managing pharmaceutical inventories and transactions.
 
 ## Team Members
-- Marina Bebawy Nasr 2200826
-- Karim Mohamed Elsayed 2200746
-- Menna Ayman Hassan 2200236
-- Karim Khaled Gamaleldin 2201356
+- Marina Bebawy Nasr 
+- Karim Mohamed Elsayed 
+- Menna Ayman Hassan 
+- Karim Khaled Gamaleldin 
 
 
 ## UML 
